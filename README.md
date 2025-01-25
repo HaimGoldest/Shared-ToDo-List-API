@@ -17,9 +17,6 @@
 
 
 ## Installation On Local Machine
-
-To install Baby-Log, follow these steps:
-
 1. Navigate in Console/CMD to the desired location and clone the repository:
 
 ```bash

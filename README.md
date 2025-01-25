@@ -35,7 +35,7 @@ cd Shared-ToDo-List-API
 npm install
 ```
 
-4. Build and Run the Application Locally:
+4. Build and Run the Server Locally:
 
 ```bash
 npm start

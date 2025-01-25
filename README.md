@@ -3,7 +3,7 @@
 
 
 ## Table of Contents:
-- [Installation On Local Machine](#ןnstallation-on-local-machine)
+- [Installation On Local Machine](#installation-on-local-machine)
   
 - [Design Decisions and Patterns Used in the Backend](#design-decisions-and-patterns-used-in-the-backend)
   - [Layered Architecture](#layered-architecture)
